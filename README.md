@@ -1,4 +1,4 @@
-# Model Context Protocol (MCP): The API for LLM - A Talk for Amazon Marketing Cloud Team
+# Model Context Protocol (MCP) - A Talk for Amazon Marketing Cloud Team [Slides]
 
 This repository contains the slides from a talk on **Model Context Protocol (MCP)**, delivered to the Amazon AMC (Amazon Marketing Cloud team on May 21, 2025.
 
