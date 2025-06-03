@@ -8,7 +8,7 @@ This repository contains the slides from a talk on **Model Context Protocol (MCP
 
 You can view the presentation slides directly in this repository:
 
-* [`Model Context Protocol.pdf`](./Model%20Context%20Protocol.pdf)
+* [`Model Context Protocol.pdf`]((https://github.com/LindseyyyLi/Introduction_to_MCP/blob/main/Model%20Context%20Protocol%20Slides%20for%20AMC.pdf))
 
 ---
 
